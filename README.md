@@ -1,5 +1,4 @@
-
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)](https://github.com/SenAarush)
 <h1 align="center">Hi 👋, I'm Aarush Sen</h1>
 <h3 align="center">Aspiring Web Developer 🚀 | Eager to share my journey, insights, and technical know-how in the world of web development. Passionate about code, with a love for Linux. Let's build and learn together! 💻🌐🐧</h3>
 
