@@ -1,5 +1,5 @@
-<h1 align="left">👋 I'm Aarush Sen</h1>
-<h3 align="left">I am a passionate web developer with a love for Linux and a curious mind.</h3>
+<h1 align="left">👋 I'm Aarush!</h1>
+<h3 align="left">Pursuing my curiosity in Tech</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senaarush&layout=compact&hide=html,scss,css&theme=transparent)
 
